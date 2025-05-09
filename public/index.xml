@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor Maddox</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Connor Maddox</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Connor. I&amp;rsquo;m not in the military anymore, but it never left me.&lt;/p&gt;&#xA;&lt;p&gt;I came up in military IT, supporting combat operations in Iraq and Afghanistan. I wasn’t trained for a narrow role. I was thrown into situations where things were broken, time was short, lives were on the line, and someone had to figure it out. That someone was usually me.&lt;/p&gt;&#xA;&lt;p&gt;I poured everything I had into that work—not because it was my job, but because I believed in it. I built systems that held under pressure. I watched messages move across networks I built, knowing those messages meant someone got backup, someone got extracted, someone got to go home. That kind of work changes you. You don&amp;rsquo;t forget what it feels like to matter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
