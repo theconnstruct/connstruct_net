@@ -24,21 +24,21 @@ export default defineConfig({
       openGraph: {
         home: {
           title: 'I Am Connstruct',
-          description: 'A minimalistic theme for Astro.'
+          description: 'The personal website of Connor Maddox.'
         },
         blog: {
           title: 'Blog',
-          description: 'News and guides for Spectre.'
+          description: 'Thoughts, ideas, and more.'
         },
         projects: {
           title: 'Projects'
         }
       },
       giscus: {
-        repository: 'louisescher/spectre',
-        repositoryId: 'R_kgDONjm3ig',
-        category: 'General',
-        categoryId: 'DIC_kwDONjm3is4ClmBF',
+        repository: 'theconnstruct/personal-site',
+        repositoryId: 'R_kgDOOpBcnQ',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOOpBcnc4CqFWV',
         mapping: 'pathname',
         strict: true,
         reactionsEnabled: true,
@@ -48,7 +48,4 @@ export default defineConfig({
     })
   ],
   adapter: netlify()
-  // adapter: node({
-  //   mode: 'standalone'
-  // })
 });
