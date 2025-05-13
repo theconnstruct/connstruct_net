@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "simple-icons",
+      "name": "bluesky"
+    },
+    "text": "Bluesky",
+    "link": "https://bsky.app/profile/connstruct.net"
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "simple-icons",
+      "name": "linkedin"
+    },
+    "text": "LinkedIn",
+    "link": "https://www.linkedin.com/in/cwmaddox"
+  },
+  {
+    "id": 3,
+    "icon": {
+      "type": "simple-icons",
+      "name": "github"
+    },
+    "text": "GitHub",
+    "link": "https://github.com/theconnstruct"
+  }
+]
